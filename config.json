@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "to-do-app-sqlite",
+      "title": "To-Do App with SQLite",
+      "description": "Build a small task tracker that persists data using SQLite.",
+      "path": "assignments/to-do-app-sqlite",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
